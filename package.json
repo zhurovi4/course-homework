@@ -1,0 +1,21 @@
+{
+  "name": "typescript-project",
+  "version": "1.0.0",
+  "description": "homework for seoftware designs course",
+  "main": "index.js",
+  "dependencies": {
+    "ts-node": "^10.5.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.9.1",
+    "@typescript-eslint/parser": "^5.12.0",
+    "eslint": "^5.16.0",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/usage.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
